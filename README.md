@@ -11,8 +11,4 @@ docker-compose up -d
 ## Application Demo
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/beebe8f7-1af0-48bd-b66e-eb26032377fd" alt="Flask Application Screenshot" width="800px">
-  <br>
-  <p><em>Figure 1: Flask web application running in Docker container showing hostname and environment</em></p>
-</div>
+<img width="1688" height="811" alt="6" src="https://github.com/user-attachments/assets/afc19138-3204-4a41-ab74-9244c0173ac6" />
