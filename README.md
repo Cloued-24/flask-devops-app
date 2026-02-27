@@ -11,4 +11,4 @@ docker-compose up -d
 ## Application Demo
 
 
-<img width="1688" height="811" alt="6" src="https://github.com/user-attachments/assets/afc19138-3204-4a41-ab74-9244c0173ac6" />
+'[image alt](https://github.com/Cloued-24/flask-devops-app/blob/main/6.png?raw=true)
