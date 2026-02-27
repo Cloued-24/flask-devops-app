@@ -10,10 +10,9 @@ docker-compose up -d
 
 ## Application Demo
 
-Here's a screenshot of the running application:
 
 <div align="center">
-  <img src="app-screenshot.png" alt="Flask Application Screenshot" width="800px">
+  <img src="https://github.com/user-attachments/assets/beebe8f7-1af0-48bd-b66e-eb26032377fd" alt="Flask Application Screenshot" width="800px">
   <br>
   <p><em>Figure 1: Flask web application running in Docker container showing hostname and environment</em></p>
 </div>
