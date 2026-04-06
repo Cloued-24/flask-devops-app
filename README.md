@@ -1,4 +1,4 @@
-<img width="918" height="682" alt="1" src="https://github.com/user-attachments/assets/fd5ea7a1-bd0b-481b-bdc8-4722314174d2" /># Building and Containerizing a Flask Web Application with Docker: A Step-by-Step DevOps Project
+# Building and Containerizing a Flask Web Application with Docker: A Step-by-Step DevOps Project
 
 Introduction
 
@@ -50,8 +50,8 @@ Create the following files:
     README.md
 
 
-![image alt](<img width="918" height="682" alt="1" src="https://github.com/user-attachments/assets/3b9af2f3-e9c3-445b-8da6-c544e2c26ef5" />
-)
+<img width="918" height="682" alt="1" src="https://github.com/user-attachments/assets/3b9af2f3-e9c3-445b-8da6-c544e2c26ef5" />
+
 
 Step 2: Building the Flask Application
 
@@ -69,17 +69,17 @@ app/init.py:
 
     from app import routes
 
-![image alt](<img width="704" height="422" alt="6" src="https://github.com/user-attachments/assets/695ff744-8d52-4829-9b05-cb87869ee1b5" />)
+<img width="704" height="422" alt="6" src="https://github.com/user-attachments/assets/695ff744-8d52-4829-9b05-cb87869ee1b5" />
 
 app/routes.py:
 
-![image alt](<img width="1558" height="932" alt="7" src="https://github.com/user-attachments/assets/92086c1f-32d4-4341-b4bf-e7e133707d5e" />)
+<img width="1558" height="932" alt="7" src="https://github.com/user-attachments/assets/92086c1f-32d4-4341-b4bf-e7e133707d5e" />
 
 Step 3: Writing the Dockerfile
 
 Now, let's create a production-ready Dockerfile:
 
-![image alt](<img width="1545" height="844" alt="8" src="https://github.com/user-attachments/assets/22513975-3e12-4e51-b757-9819a4ba8866" />)
+<img width="1545" height="844" alt="8" src="https://github.com/user-attachments/assets/22513975-3e12-4e51-b757-9819a4ba8866" />
 
 Step 4: Docker Compose for Multi-Container Setup
 
